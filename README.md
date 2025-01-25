@@ -1,4 +1,4 @@
-# CommentIQ🤖  
+# CommentIQ  
 **AI-Powered Feedback Processing with Sentiment Analysis & Critical Alerts**
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
@@ -33,7 +33,7 @@ streamlit run app.py
 
 ---
 
-## Key Features 
+## Key Features:
 
 - **Instant Analysis**: Get sentiment, summary, and category in one click  
 - **Security Alerts**: Flags 15+ critical terms like "data breach" or "hack"  
@@ -42,7 +42,7 @@ streamlit run app.py
 
 ---
 
-## Setup Guide ⚙️
+## Setup Guide:
 
 1. **Airtable**: Create table named `Feedback` with fields:  
    `Feedback`, `Sentiment`, `Summary`, `Category`, `Flagged Keywords`  
